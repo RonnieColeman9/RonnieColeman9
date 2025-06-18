@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, Cisco Cybersecurity Certificate**
 
-- 📄 Know about my experiences [BASH, Batch and Powershell](BASH, Batch and Powershell)
+- 📄 Know about my experiences BASH, Batch and Powershell
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
