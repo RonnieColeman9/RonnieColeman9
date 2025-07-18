@@ -5,7 +5,7 @@
 </p>
 About Me & My Mission ✨
 
-I'm Jack, a passionate developer dedicated to crafting practical solutions that make tedious tasks easy and fast. My goal is to simplify workflows and enhance efficiency through thoughtful software design.
+I'm Jack, a passionate developer dedicated to crafting practical solutions that make tedious tasks easy and fast. My primary goal is to simplify workflows and enhance efficiency through thoughtful software design.
 
 Currently, I'm building Downloader UI, a Python-based interface, and expanding my skills in Python and Cisco Cybersecurity. I also have experience with BASH, Batch, and PowerShell scripting.
 My Development Toolkit 🛠️
