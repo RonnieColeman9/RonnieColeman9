@@ -5,19 +5,21 @@
 </p>
 About Me & My Mission ✨
 
+</p>
+
 I'm Jack, a passionate developer dedicated to crafting practical solutions that make tedious tasks easy and fast. My primary goal is to simplify workflows and enhance efficiency through thoughtful software design.
 
 </p>
 What I'm Working On 💻
 
-Currently, I'm building Downloader UI, a Python-based interface, and expanding my skills in Python and Cisco Cybersecurity. I also have experience with BASH, Batch, and PowerShell scripting.
-
 </p>
+
+Currently, I'm building Downloader UI, a Python-based interface, and expanding my skills in Python and Cisco Cybersecurity. I also have experience with BASH, Batch, and PowerShell scripting.
 My Development Toolkit 🛠️
 
-Here are some of the key technologies and tools I frequently use to bring ideas to life:
-
 </p>
+
+Here are some of the key technologies and tools I frequently use to bring ideas to life:
 
 <p align="left">
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
@@ -29,9 +31,15 @@ Here are some of the key technologies and tools I frequently use to bring ideas 
 </p>
 Discover Quick Windows! 🚀
 
+</p>
+
 I'm excited to share the new website for my Quick Windows project! It's designed to provide all the details and resources you need to get started quickly and efficiently.
 
 Visit the Quick Windows Website here!
+
+</p>
 My GitHub Activity 📊
+
+</p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronniecoleman9&show_icons=true&locale=en&layout=compact" alt="RonnieColeman9's Top Languages" /></p>
