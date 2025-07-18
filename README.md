@@ -7,10 +7,17 @@ About Me & My Mission ✨
 
 I'm Jack, a passionate developer dedicated to crafting practical solutions that make tedious tasks easy and fast. My primary goal is to simplify workflows and enhance efficiency through thoughtful software design.
 
+</p>
+What I'm Working On 💻
+
 Currently, I'm building Downloader UI, a Python-based interface, and expanding my skills in Python and Cisco Cybersecurity. I also have experience with BASH, Batch, and PowerShell scripting.
+
+</p>
 My Development Toolkit 🛠️
 
 Here are some of the key technologies and tools I frequently use to bring ideas to life:
+
+</p>
 
 <p align="left">
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
