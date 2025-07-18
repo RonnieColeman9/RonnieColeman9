@@ -5,7 +5,7 @@
 </p>
 About Me
 
-I'm Jack RonnieColeman9, a passionate developer focused on creating practical solutions and continuously expanding my technical skillset. Welcome to my GitHub profile!
+I'm Jack RonnieColeman9, a passionate developer focused on creating practical solutions for tedious tasks and continuously expanding my technical skillset. Welcome to my GitHub profile!
 My Current Focus
 
     🔭 Projects: I'm actively developing Downloader UI, a Python-based user interface project aimed at simplifying downloads.
